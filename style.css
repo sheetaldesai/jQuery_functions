@@ -1,0 +1,61 @@
+body {
+    text-align: center;
+}
+
+div {
+    /* height: 250px; */
+    background-color: grey;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 100px;
+}
+
+h3 {
+    margin-right: 50px;
+}
+.inlineBlock {
+    display: inline-block;
+    vertical-align: top;
+}
+
+input[type="button"] {
+    height: 30px;
+    margin: 0 50px 0 0;
+    width: 100px;
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+    font-weight: 600;
+
+}
+
+img {
+    width: 300px;
+    height: 200px;
+    /* display: none; */
+}
+
+#box1, #box2, #box3, #box4 {
+    width: 100px;
+    height: 100px;
+    margin-right: 50px;
+    display: inline-block;
+    vertical-align: top;
+    border: 3px solid black;
+}
+
+#box1 {
+    background-color: blueviolet;
+}
+
+#box2 {
+    background-color: #2BA8E2;
+}
+
+#box3 {
+    background-color: #E2992B;
+}
+
+#box4 {
+    background-color: #E22B3A;
+}
